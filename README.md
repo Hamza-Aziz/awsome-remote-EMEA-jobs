@@ -4,7 +4,7 @@
 I know there is other awsome repos for remote jobs, but as a residant in the EMEA region , it was almost impossibe and time consuming to find a company there that hires from the EMEA region.
 
 
-so this repo will list only the IT companies that hires from the EMEA region,and NOTHING else.
+so this repo will list only the IT companies that hire from the EMEA region,and NOTHING else.
 ## Companies
 
 
