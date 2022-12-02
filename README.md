@@ -24,9 +24,10 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-## Authors
+## contributers
 
 - [@Hamza-aziz](https://www.github.com/hamza-aziz)
+- [@omaratbd7](https://github.com/omaratbd7)
 
 
 ## License
