@@ -8,10 +8,11 @@ so this repo will list only the IT companies that hire from the EMEA region,and 
 ## Companies
 
 
-Name | Website
+Name | Field | Country
 ------------ | ------- 
-example | https://example.com/ 
-example | https://example.com/ 
+[example](https://example.com) | DevOps | Morocco
+[example](https://example.com) | Web Dev | USA
+
 
 
 ## Contributing
