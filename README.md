@@ -10,7 +10,7 @@ so this repo will list only the IT companies that hire from the EMEA region,and 
 
 Name | Field | Headquarters
 -----|------- | ------- 
-[example](https://example.com) | DevOps | Morocco
+[heetch](https://www.heetch.com/fr/jobs#job) | Web Dev, DevOps, SRE | France
 [onthegosystems](https://onthegosystems.com/jobs/) | Web Dev | Hong Kong
 
 
