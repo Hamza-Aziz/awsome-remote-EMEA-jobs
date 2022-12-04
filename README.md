@@ -12,7 +12,9 @@ Name | Field | Headquarters
 -----|------- | ------- 
 [heetch](https://www.heetch.com/fr/jobs#job) | Web Dev, DevOps, SRE | France
 [onthegosystems](https://onthegosystems.com/jobs/) | Web Dev | Hong Kong
-
+[merantix](https://merantix.jobs.personio.de/) | Web Dev, DevOps, SRE | Germany
+[celestia labs](https://jobs.lever.co/celestia)| Web Dev,web3, DevOps, SRE | -
+[plateform.sh] (https://platform.sh/company/careers/) | Web Dev, DevOps, SRE |France
 
 
 ## Contributing
